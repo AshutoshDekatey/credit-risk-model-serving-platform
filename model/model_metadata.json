@@ -1,0 +1,7 @@
+{
+  "registered_model": "credit-risk-model",
+  "model_version": "2",
+  "alias": "champion",
+  "run_id": "e2c91535d4474b3781b9181b1e71f21f",
+  "release": "v0.2.0"
+}
